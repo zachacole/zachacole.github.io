@@ -374,7 +374,7 @@ section.grey {
 /* IMAGES */
 
 .img-about-1 {
-  background-image: url('https://zcole.me/img/about-1.png');
+  background-image: url('/img/about-1.png');
   background-repeat: no-repeat;
   background-size: contain;
   height: 0;
@@ -383,7 +383,7 @@ section.grey {
 }
 
 .img-about-2 {
-  background-image: url('https://zcole.me/img/about-2.png');
+  background-image: url('/img/about-2.png');
   background-repeat: no-repeat;
   background-size: contain;
   height: 0;
@@ -392,7 +392,7 @@ section.grey {
 }
 
 .img-about-3 {
-  background-image: url('https://zcole.me/img/about-3.png');
+  background-image: url('img/about-3.png');
   background-repeat: no-repeat;
   background-size: contain;
   height: 0;
