@@ -5,20 +5,20 @@
 
 @font-face {
   font-family: 'ObjectSans';
-  src: url('fonts/ObjectSans-Regular.eot'); /* IE9 Compat Modes */
-  src: url('fonts/ObjectSans-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/ObjectSans-Regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/ObjectSans-Regular.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/ObjectSans-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('/fonts/ObjectSans-Regular.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/ObjectSans-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/ObjectSans-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/ObjectSans-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/ObjectSans-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
 @font-face {
   font-family: 'ObjectSans-Heavy';
-  src: url('fonts/ObjectSans-Heavy.eot'); /* IE9 Compat Modes */
-  src: url('fonts/ObjectSans-Heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('fonts/ObjectSans-Heavy.woff2') format('woff2'), /* Super Modern Browsers */
-       url('fonts/ObjectSans-Heavy.woff') format('woff'), /* Pretty Modern Browsers */
-       url('fonts/ObjectSans-Heavy.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('/fonts/ObjectSans-Heavy.eot'); /* IE9 Compat Modes */
+  src: url('/fonts/ObjectSans-Heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('/fonts/ObjectSans-Heavy.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/fonts/ObjectSans-Heavy.woff') format('woff'), /* Pretty Modern Browsers */
+       url('/fonts/ObjectSans-Heavy.ttf')  format('truetype'); /* Safari, Android, iOS */
 }
 
 /* UNIVERSAL */
